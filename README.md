@@ -1,6 +1,6 @@
 # blogPerso
 
-## Markdown : Guide du langage 
+## Markdown : Guide du HTML 
 
 ### Texte en gras & italique
 
